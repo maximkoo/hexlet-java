@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Circle/Circle.iml" filepath="$PROJECT_DIR$/Circle/Circle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_1_6_Test.iml" filepath="$PROJECT_DIR$/Java_1_6_Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Random/Random.iml" filepath="$PROJECT_DIR$/Random/Random.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Square/Square.iml" filepath="$PROJECT_DIR$/Square/Square.iml" />
+    </modules>
+  </component>
+</project>
