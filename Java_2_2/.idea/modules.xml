@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Java_2_2.iml" filepath="$PROJECT_DIR$/Java_2_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_2_2_3/Java_2_2_3.iml" filepath="$PROJECT_DIR$/Java_2_2_3/Java_2_2_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_2_2_DiapasonList/Java_2_2_DiapasonList.iml" filepath="$PROJECT_DIR$/Java_2_2_DiapasonList/Java_2_2_DiapasonList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_2_2_LongestSubstring/Java_2_2_LongestSubstring.iml" filepath="$PROJECT_DIR$/Java_2_2_LongestSubstring/Java_2_2_LongestSubstring.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_2_2_PolishReverse/Java_2_2_PolishReverse.iml" filepath="$PROJECT_DIR$/Java_2_2_PolishReverse/Java_2_2_PolishReverse.iml" />
     </modules>
   </component>
