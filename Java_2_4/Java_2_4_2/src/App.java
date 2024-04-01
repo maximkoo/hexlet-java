@@ -1,19 +1,23 @@
-import java.time.LocalDate;
-import java.util.ArrayList;
-import java.util.List;
+import java.util.Map;
 
 public class App {
     public static void main(String[] args) {
-        var users = new ArrayList<>(List.of(
-                new User("Salli", LocalDate.of(1990, 12, 15)),
-                new User("Gawen", LocalDate.of(2002, 10, 23)),
-                new User("Emmalee", LocalDate.of(1992, 9, 16))
-        ));
+        var products = Map.of(
+                "Apple", 5,
+                "Lemon", 9,
+                "Pear", 15
+        );
 
-        var oldestUsers1 = App.getOldest(users);
-        System.out.println(oldestUsers1); // => [Salli 1990-12-15]
+        printBalance(products, 10); // =>
+        // Apple
+        // Lemon
+    }
 
-        var oldestUsers2 = App.getOldest(users, 2);
-        System.out.println(oldestUsers2); // => [Salli 1990-12-15, Emmalee 1992-9-16]
+    public static void printBalance(Map<String, Integer> products, int amount) {
+        products.forEach((key, value) -> {
+            if (products.get(key) < amount) {
+                System.out.println(key);
+            }
+        });
     }
 }
