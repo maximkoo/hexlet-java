@@ -33,6 +33,11 @@ public class App {
         for (int i = 0; i < cnt; i++) {
             sortedN.add(u.get(i));
         }
+
+        ArrayList<LocalDate> dates = new ArrayList<>();
+        dates.sort((d1,d2) -> d1.compareTo(d2));
+        Collections.sort(dates, (d1,d2) -> d1.compareTo(d2));
+
         return sortedN;
     }
 }
