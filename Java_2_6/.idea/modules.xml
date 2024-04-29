@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java_2_6.iml" filepath="$PROJECT_DIR$/Java_2_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_2_6_3/Java_2_6_3.iml" filepath="$PROJECT_DIR$/Java_2_6_3/Java_2_6_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_2_6_5/Java_2_6_5.iml" filepath="$PROJECT_DIR$/Java_2_6_5/Java_2_6_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_2_6_6/Java_2_6_6.iml" filepath="$PROJECT_DIR$/Java_2_6_6/Java_2_6_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_2_6_7/Java_2_6_7.iml" filepath="$PROJECT_DIR$/Java_2_6_7/Java_2_6_7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_2_6_Anagram/Java_2_6_Anagram.iml" filepath="$PROJECT_DIR$/Java_2_6_Anagram/Java_2_6_Anagram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_2_6_CountByYears/Java_2_6_CountByYears.iml" filepath="$PROJECT_DIR$/Java_2_6_CountByYears/Java_2_6_CountByYears.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_2_6_Forwarded/Java_2_6_Forwarded.iml" filepath="$PROJECT_DIR$/Java_2_6_Forwarded/Java_2_6_Forwarded.iml" />
+    </modules>
+  </component>
+</project>
