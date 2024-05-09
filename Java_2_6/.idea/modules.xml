@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/Java_2_6_Anagram/Java_2_6_Anagram.iml" filepath="$PROJECT_DIR$/Java_2_6_Anagram/Java_2_6_Anagram.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_2_6_CountByYears/Java_2_6_CountByYears.iml" filepath="$PROJECT_DIR$/Java_2_6_CountByYears/Java_2_6_CountByYears.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_2_6_Forwarded/Java_2_6_Forwarded.iml" filepath="$PROJECT_DIR$/Java_2_6_Forwarded/Java_2_6_Forwarded.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_2_6_Histogram/Java_2_6_Histogram.iml" filepath="$PROJECT_DIR$/Java_2_6_Histogram/Java_2_6_Histogram.iml" />
     </modules>
   </component>
 </project>
