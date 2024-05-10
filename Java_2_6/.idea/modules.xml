@@ -3,21 +3,21 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Java_2_6.iml" filepath="$PROJECT_DIR$/Java_2_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_2_6F_FindNearest/Java_2_6F_FindNearest.iml" filepath="$PROJECT_DIR$/Java_2_6F_FindNearest/Java_2_6F_FindNearest.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_2_6_10/Java_2_6_10.iml" filepath="$PROJECT_DIR$/Java_2_6_10/Java_2_6_10.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_2_6_2/Java_2_6_2.iml" filepath="$PROJECT_DIR$/Java_2_6_2/Java_2_6_2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Java_2_6_3/Java_2_6_3.iml" filepath="$PROJECT_DIR$/Java_2_6_3/Java_2_6_3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Java_2_6_8/Java_2_6_8.iml" filepath="$PROJECT_DIR$/Java_2_6_8/Java_2_6_8.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Java_2_6_9/Java_2_6_9.iml" filepath="$PROJECT_DIR$/Java_2_6_9/Java_2_6_9.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Java_2_6_SameParity/Java_2_6_SameParity.iml" filepath="$PROJECT_DIR$/Java_2_6_SameParity/Java_2_6_SameParity.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Java_2_6F_FindNearest/Java_2_6F_FindNearest.iml" filepath="$PROJECT_DIR$/Java_2_6F_FindNearest/Java_2_6F_FindNearest.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_2_6_3/Java_2_6_3.iml" filepath="$PROJECT_DIR$/Java_2_6_3/Java_2_6_3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_2_6_5/Java_2_6_5.iml" filepath="$PROJECT_DIR$/Java_2_6_5/Java_2_6_5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_2_6_6/Java_2_6_6.iml" filepath="$PROJECT_DIR$/Java_2_6_6/Java_2_6_6.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_2_6_7/Java_2_6_7.iml" filepath="$PROJECT_DIR$/Java_2_6_7/Java_2_6_7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_2_6_8/Java_2_6_8.iml" filepath="$PROJECT_DIR$/Java_2_6_8/Java_2_6_8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_2_6_9/Java_2_6_9.iml" filepath="$PROJECT_DIR$/Java_2_6_9/Java_2_6_9.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_2_6_Anagram/Java_2_6_Anagram.iml" filepath="$PROJECT_DIR$/Java_2_6_Anagram/Java_2_6_Anagram.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_2_6_CountByYears/Java_2_6_CountByYears.iml" filepath="$PROJECT_DIR$/Java_2_6_CountByYears/Java_2_6_CountByYears.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_2_6_Forwarded/Java_2_6_Forwarded.iml" filepath="$PROJECT_DIR$/Java_2_6_Forwarded/Java_2_6_Forwarded.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_2_6_Histogram/Java_2_6_Histogram.iml" filepath="$PROJECT_DIR$/Java_2_6_Histogram/Java_2_6_Histogram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_2_6_Probabilities/Java_2_6_Probabilities.iml" filepath="$PROJECT_DIR$/Java_2_6_Probabilities/Java_2_6_Probabilities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_2_6_SameParity/Java_2_6_SameParity.iml" filepath="$PROJECT_DIR$/Java_2_6_SameParity/Java_2_6_SameParity.iml" />
     </modules>
   </component>
 </project>
